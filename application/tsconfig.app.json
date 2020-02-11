@@ -2,7 +2,15 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./out-tsc/app",
-    "types": []
+    "types": [],
+    "paths": {
+      "@angular/*": [
+        "./node_modules/@angular/*"
+      ],
+      "ag-grid-angular": [
+        "./node_modules/ag-grid-angular"
+      ]
+    }
   },
   "files": [
     "src/main.ts",
