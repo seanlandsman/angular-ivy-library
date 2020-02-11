@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { MyLibComponent } from './my-lib.component';
+import { AgGridAngular } from './ag-grid-angular.component';
 
 describe('MyLibComponent', () => {
-  let component: MyLibComponent;
-  let fixture: ComponentFixture<MyLibComponent>;
+  let component: AgGridAngular;
+  let fixture: ComponentFixture<AgGridAngular>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ MyLibComponent ]
+      declarations: [ AgGridAngular ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(MyLibComponent);
+    fixture = TestBed.createComponent(AgGridAngular);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

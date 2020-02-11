@@ -3,38 +3,38 @@
   "version": 1, 
   "newProjectRoot": "projects",
   "projects": {
-    "my-lib": {
+    "ag-grid-angular": {
       "projectType": "library",
-      "root": "projects/my-lib",
-      "sourceRoot": "projects/my-lib/src",
+      "root": "projects/ag-grid-angular",
+      "sourceRoot": "projects/ag-grid-angular/src",
       "prefix": "lib",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-ng-packagr:build",
           "options": {
-            "tsConfig": "projects/my-lib/tsconfig.lib.json",
-            "project": "projects/my-lib/ng-package.json"
+            "tsConfig": "projects/ag-grid-angular/tsconfig.lib.json",
+            "project": "projects/ag-grid-angular/ng-package.json"
           },
           "configurations": {
             "production": {
-              "tsConfig": "projects/my-lib/tsconfig.lib.prod.json"
+              "tsConfig": "projects/ag-grid-angular/tsconfig.lib.prod.json"
             }
           }
         },
         "test": {
           "builder": "@angular-devkit/build-angular:karma",
           "options": {
-            "main": "projects/my-lib/src/test.ts",
-            "tsConfig": "projects/my-lib/tsconfig.spec.json",
-            "karmaConfig": "projects/my-lib/karma.conf.js"
+            "main": "projects/ag-grid-angular/src/test.ts",
+            "tsConfig": "projects/ag-grid-angular/tsconfig.spec.json",
+            "karmaConfig": "projects/ag-grid-angular/karma.conf.js"
           }
         },
         "lint": {
           "builder": "@angular-devkit/build-angular:tslint",
           "options": {
             "tsConfig": [
-              "projects/my-lib/tsconfig.lib.json",
-              "projects/my-lib/tsconfig.spec.json"
+              "projects/ag-grid-angular/tsconfig.lib.json",
+              "projects/ag-grid-angular/tsconfig.spec.json"
             ],
             "exclude": [
               "**/node_modules/**"
@@ -43,5 +43,5 @@
         }
       }
     }},
-  "defaultProject": "my-lib"
+  "defaultProject": "ag-grid-angular"
 }

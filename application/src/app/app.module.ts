@@ -1,6 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { MyLibModule } from 'my-lib';
+import { AgGridAngularModule } from 'ag-grid-angular';
 
 import { AppComponent } from './app.component';
 
@@ -10,7 +10,7 @@ import { AppComponent } from './app.component';
   ],
   imports: [
     BrowserModule,
-    MyLibModule
+    AgGridAngularModule
   ],
   providers: [],
   bootstrap: [AppComponent]

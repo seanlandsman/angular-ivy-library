@@ -25,8 +25,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e3e491-ebb3-431a-a472-85f5937351ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/ag-grid-angular.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/public-api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library-workspace/syncLib.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/angular-ivy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/angular-ivy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/application/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library-workspace/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library-workspace/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/ng-package.json" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/ng-package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/src/lib/angularFrameworkComponentWrapper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/angularFrameworkComponentWrapper.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/src/lib/angularFrameworkOverrides.ts" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/angularFrameworkOverrides.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/src/lib/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/interfaces.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/src/lib/my-lib.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/ag-grid-angular.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/src/lib/my-lib.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/ag-grid-angular.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/src/lib/my-lib.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/src/lib/my-lib.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/ag-grid-angular.service.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/src/lib/my-lib.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/ag-grid-angular.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/src/public-api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/tsconfig.lib.json" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/tsconfig.lib.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/tsconfig.lib.prod.json" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/tsconfig.lib.prod.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-workspace/projects/my-lib/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library-workspace/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/library-workspace/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,21 +87,23 @@
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/library-workspace/projects/my-lib/src/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/library-workspace" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/application/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/library-workspace" />
       <recent name="$PROJECT_DIR$/library-workspace/projects/my-lib/src/lib" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -104,6 +132,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E2E Tests (application)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/application/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/application/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -119,6 +168,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="additionalRoots">
+      <list>
+        <option value="$PROJECT_DIR$/library-workspace/dist/ag-grid-angular/ag-grid-angular.d.ts" />
+        <option value="$PROJECT_DIR$/library-workspace/dist/ag-grid-angular" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -131,9 +186,17 @@
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="2389" y="450" key="SettingsEditor/0.23.3840.1577@0.23.3840.1577" timestamp="1581352241918" />
+    <state x="2260" y="488" width="639" height="486" key="find.popup" timestamp="1581419068288">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2260" y="488" width="639" height="486" key="find.popup/0.23.3440.1417@0.23.3440.1417" timestamp="1581419068288" />
     <state x="2560" y="538" key="new project wizard" timestamp="1581353143266">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="2560" y="538" key="new project wizard/0.23.3840.1577@0.23.3840.1577" timestamp="1581353143266" />
+    <state x="2245" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1581418374415">
+      <screen x="0" y="23" width="3440" height="1417" />
+    </state>
+    <state x="2245" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417@0.23.3440.1417" timestamp="1581418374415" />
   </component>
 </project>

@@ -19,9 +19,9 @@
       "dom"
     ],
     "paths": {
-      "my-lib": [
-        "dist/my-lib/my-lib",
-        "dist/my-lib"
+      "ag-grid-angular": [
+        "dist/ag-grid-angular/ag-grid-angular",
+        "dist/ag-grid-angular"
       ]
     }
   },
