@@ -26,35 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a0e3e491-ebb3-431a-a472-85f5937351ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/application/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/karma.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/ng-package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/ng-package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/ag-grid-angular.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/src/lib/ag-grid-angular.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/ag-grid-angular.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/src/lib/ag-grid-angular.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/ag-grid-angular.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/src/lib/ag-grid-angular.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/ag-grid-angular.service.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/src/lib/ag-grid-angular.service.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/ag-grid-angular.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/src/lib/ag-grid-angular.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/angularFrameworkComponentWrapper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/src/lib/angularFrameworkComponentWrapper.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/angularFrameworkOverrides.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/src/lib/angularFrameworkOverrides.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/lib/interfaces.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/src/lib/interfaces.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/public-api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/src/public-api.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/src/test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/tsconfig.lib.json" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/tsconfig.lib.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/tsconfig.lib.prod.json" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/tsconfig.lib.prod.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/tsconfig.spec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/projects/ag-grid-angular/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/projects/ag-grid-angular/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/syncLib.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/syncLib.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-workspace/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/ag-grid-angular/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/application/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,18 +157,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2065" y="332" key="CommitChangelistDialog2" timestamp="1581426656180">
+    <state x="2065" y="332" key="CommitChangelistDialog2" timestamp="1581428501691">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="2065" y="332" key="CommitChangelistDialog2/0.23.3440.1417@0.23.3440.1417" timestamp="1581426656180" />
+    <state x="2065" y="332" key="CommitChangelistDialog2/0.23.3440.1417@0.23.3440.1417" timestamp="1581428501691" />
     <state x="2389" y="450" key="SettingsEditor" timestamp="1581352241918">
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="2389" y="450" key="SettingsEditor/0.23.3840.1577@0.23.3840.1577" timestamp="1581352241918" />
-    <state x="2180" y="471" key="Vcs.Push.Dialog.v2" timestamp="1581426657504">
+    <state x="2180" y="471" key="Vcs.Push.Dialog.v2" timestamp="1581428503711">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="2180" y="471" key="Vcs.Push.Dialog.v2/0.23.3440.1417@0.23.3440.1417" timestamp="1581426657504" />
+    <state x="2180" y="471" key="Vcs.Push.Dialog.v2/0.23.3440.1417@0.23.3440.1417" timestamp="1581428503711" />
     <state x="2385" y="655" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581424945837">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
@@ -209,9 +181,9 @@
       <screen x="0" y="23" width="3840" height="1577" />
     </state>
     <state x="2560" y="538" key="new project wizard/0.23.3840.1577@0.23.3840.1577" timestamp="1581353143266" />
-    <state x="2245" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1581426834459">
+    <state x="2245" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1581493790912">
       <screen x="0" y="23" width="3440" height="1417" />
     </state>
-    <state x="2245" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417@0.23.3440.1417" timestamp="1581426834459" />
+    <state x="2245" y="348" width="670" height="676" key="search.everywhere.popup/0.23.3440.1417@0.23.3440.1417" timestamp="1581493790912" />
   </component>
 </project>
